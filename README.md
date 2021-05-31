@@ -58,7 +58,7 @@ Coffee Shop is a food ordering service application that gives customers complete
 
 ## Prerequisites
 
-- [NodeJs](https://nodejs.org/en/download/)
+- [NodeJs](https://nodejs.org/)
 - [MySQL](https://www.mysql.com/)
 
 ## Installation
